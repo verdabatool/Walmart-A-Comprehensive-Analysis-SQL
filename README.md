@@ -1,4 +1,4 @@
-# Walmart-ComprehensiveAnalysis
+# Walmart - A Comprehensive Analysis
 ## Project Objective
 
 The objective of this project was to conduct an extensive Exploratory Data Analysis (EDA) on a Walmart Sales Data dataset to uncover insights into sales performance, customer behavior, product line profitability, payment method preferences, and temporal sales trends. By answering a comprehensive set of analytical questions, the project aimed to:
