@@ -976,14 +976,3 @@ GROUP BY
 ORDER BY
 	product_line,
     total_sales DESC;
-    
-    SELECT 
-    product_line AS most_selling_product_line,
-    ROUND(SUM(total), 2) AS total_sales,
-    ROUND((SUM(total) / (SELECT SUM(total) FROM walmartsalesdata) * 100), 2) AS percentage
-FROM 
-    walmartsalesdata
-GROUP BY 
-    product_line
-ORDER BY 
-    total_sales DESC;
