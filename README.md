@@ -48,7 +48,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 # Analysis List
 
-## EDA Questions
+## 1. EDA Questions
 
 ### General Insights
 1. How many unique cities does the data have?
@@ -74,7 +74,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 21. Which city has the largest tax/VAT percent?
 22. Which customer type pays the most in VAT?
 
-### Sales Performance Analysis
+### 2. Sales Performance Analysis
 23. What is the monthly sales trend for each product line?
 24. Compare the month-over-month sales across all branches.
 25. Which branch has the highest total sales, and how does it compare month-over-month?
@@ -85,21 +85,21 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 30. Determine the top-selling product each month.
 31. Forecast next month's sales based on the current trend.
 
-### Customer Behavior Analysis
+### 3. Customer Behavior Analysis
 32. What is the average transaction value for each customer type (Member vs. Normal)?
 33. How does the gender of customers impact the types of products purchased and the average spend?
 34. Identify the top 5% of customers by sales volume and analyze their purchasing patterns.
 35. Analyze the correlation between customer ratings and their purchasing volume.
 36. Examine the impact of customer type on payment method preference.
 
-### Product Line Insights
+### 4. Product Line Insights
 37. Calculate the profitability (gross income) for each product line and rank them.
 38. What is the average rating for each product line, and how does it correlate with sales volume?
 39. Identify the product lines with the highest and lowest variability in sales across different branches.
 40. Examine the price sensitivity of different product lines.
 41. Forecast next month's demand for each product line based on the current trend. Identify which product lines have the potential for higher demands.
 
-### Payment Method Analysis
+### 5. Payment Method Analysis
 42. What is the distribution of payment methods across different branches and customer types?
 43. Compare the average sales value by payment method. Is there a significant difference?
 44. Analyze the impact of payment methods on product line sales.
@@ -108,7 +108,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 47. Identify trends in payment method preferences over time.
 48. Examine the relationship between payment methods and customer satisfaction ratings.
 
-### Time-Based Sales Analysis
+### 6. Time-Based Sales Analysis
 49. What are the peak sales hours throughout the day?
 50. Analyze sales performance by day of the week. Are there significant differences?
 51. Analyze sales performance by day of the week and time of day. Are there significant differences?
