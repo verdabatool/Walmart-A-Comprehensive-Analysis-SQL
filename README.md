@@ -86,30 +86,30 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 31. Forecast next month's sales based on the current trend.
 
 ### 2. Customer Behavior Analysis
-32. What is the average transaction value for each customer type (Member vs. Normal)?
-33. How does the gender of customers impact the types of products purchased and the average spend?
-34. Identify the top 5% of customers by sales volume and analyze their purchasing patterns.
-35. Analyze the correlation between customer ratings and their purchasing volume.
-36. Examine the impact of customer type on payment method preference.
+1. What is the average transaction value for each customer type (Member vs. Normal)?
+2. How does the gender of customers impact the types of products purchased and the average spend?
+3. Identify the top 5% of customers by sales volume and analyze their purchasing patterns.
+4. Analyze the correlation between customer ratings and their purchasing volume.
+5. Examine the impact of customer type on payment method preference.
 
 ### 3. Product Line Insights
-37. Calculate the profitability (gross income) for each product line and rank them.
-38. What is the average rating for each product line, and how does it correlate with sales volume?
-39. Identify the product lines with the highest and lowest variability in sales across different branches.
-40. Examine the price sensitivity of different product lines.
-41. Forecast next month's demand for each product line based on the current trend. Identify which product lines have the potential for higher demands.
+1. Calculate the profitability (gross income) for each product line and rank them.
+2. What is the average rating for each product line, and how does it correlate with sales volume?
+3. Identify the product lines with the highest and lowest variability in sales across different branches.
+4. Examine the price sensitivity of different product lines.
+5. Forecast next month's demand for each product line based on the current trend. Identify which product lines have the potential for higher demands.
 
 ### 4. Payment Method Analysis
-42. What is the distribution of payment methods across different branches and customer types?
-43. Compare the average sales value by payment method. Is there a significant difference?
-44. Analyze the impact of payment methods on product line sales.
-45. Determine the correlation between payment method and customer loyalty.
-46. Assess the effect of payment method on the average basket size.
-47. Identify trends in payment method preferences over time.
-48. Examine the relationship between payment methods and customer satisfaction ratings.
+1. What is the distribution of payment methods across different branches and customer types?
+2. Compare the average sales value by payment method. Is there a significant difference?
+3. Analyze the impact of payment methods on product line sales.
+4. Determine the correlation between payment method and customer loyalty.
+5. Assess the effect of payment method on the average basket size.
+6. Identify trends in payment method preferences over time.
+7. Examine the relationship between payment methods and customer satisfaction ratings.
 
 ### 5. Time-Based Sales Analysis
-49. What are the peak sales hours throughout the day?
-50. Analyze sales performance by day of the week. Are there significant differences?
-51. Analyze sales performance by day of the week and time of day. Are there significant differences?
-52. Determine the best-performing hours for each product line.
+1. What are the peak sales hours throughout the day?
+2. Analyze sales performance by day of the week. Are there significant differences?
+3. Analyze sales performance by day of the week and time of day. Are there significant differences?
+4. Determine the best-performing hours for each product line.
