@@ -75,15 +75,15 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 22. Which customer type pays the most in VAT?
 
 ### 1. Sales Performance Analysis
-23. What is the monthly sales trend for each product line?
-24. Compare the month-over-month sales across all branches.
-25. Which branch has the highest total sales, and how does it compare month-over-month?
-26. Calculate the month-over-month growth in sales for each city.
-27. Rank product lines by sales within each branch.
-28. Identify the month with the highest sales.
-29. Calculate the MOM growth in each product line.
-30. Determine the top-selling product each month.
-31. Forecast next month's sales based on the current trend.
+1. What is the monthly sales trend for each product line?
+2. Compare the month-over-month sales across all branches.
+3. Which branch has the highest total sales, and how does it compare month-over-month?
+4. Calculate the month-over-month growth in sales for each city.
+5. Rank product lines by sales within each branch.
+6. Identify the month with the highest sales.
+7. Calculate the MOM growth in each product line.
+8. Determine the top-selling product each month.
+9. Forecast next month's sales based on the current trend.
 
 ### 2. Customer Behavior Analysis
 1. What is the average transaction value for each customer type (Member vs. Normal)?
